@@ -3,5 +3,5 @@
 <h3>Step 1:The Ui of Weather App</h3>
 <img src="images/img 1.png">
 <h3>Step 2:I tried to know what is weather in Ahmedabad </h3>
-<img src="images/img 3.png">
+<img src="images/img 3.png.png">
 
